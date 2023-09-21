@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.gokulprn.sequencern"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "790c3976-5d3c-4bc1-9c7c-ed7d023c1e48"
+      }
+    },
+    "owner": "gokulp-rn"
   }
 }
